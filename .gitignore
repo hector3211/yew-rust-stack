@@ -1,0 +1,4 @@
+/dist/
+/target/
+/tailwind.config.js
+.env*
